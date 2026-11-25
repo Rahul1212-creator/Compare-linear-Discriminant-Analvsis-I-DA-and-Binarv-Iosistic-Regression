@@ -1,0 +1,2 @@
+# Compare-linear-Discriminant-Analvsis-I-DA-and-Binarv-Iosistic-Regression
+Linear Discriminant Analysis and Binary Logistic Regression both classify borrowers as default or non-default, but differ in approach. LDA creates a discriminant score to separate groups and requires normal data with equal variances, while Logistic Regression directly estimates the probability of default without those strict assumptions 
